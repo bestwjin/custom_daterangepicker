@@ -16,3 +16,4 @@ I customize the date range selector as needed.
    고정되어있는 현상을 처리하기 위해 스크롤링시 팝업창이 사라지게 하였습니다.
 3. 몇가지 버튼을 생성하여 특정기간을 자동으로 설정해주도록 하였습니다.
 
+https://user-images.githubusercontent.com/65703752/84334662-de090580-abcd-11ea-84f8-7eb4d33eeb3d.png
