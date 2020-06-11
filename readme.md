@@ -1,5 +1,4 @@
-(First of all, I'm sorry for the lack of English skills.
- However, I want to write in english for wide spread)
+(welcome advice for correct english grammer)
 
 I customized the daterangepicker library according to my needs.
 
