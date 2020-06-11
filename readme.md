@@ -1,7 +1,7 @@
 (First of all, I'm sorry for the lack of English skills.
  However, I want to write in english for wide spread)
 
-I customize the date range selector as needed.
+I customized the daterangepicker library according to my needs.
 
 1. softly appear or disappear popup
    (by using jquery's fadeIn and fadeOut function)
